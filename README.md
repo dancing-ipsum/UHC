@@ -10,4 +10,4 @@ While having many features, this core comes with many things such as:
 
 Make sure to follow @IrishPlugins on Twitter for updates!
 
-Donations are welcome! Donate at: paypal.me/IrishPacks
+Donations are welcome! Donate [here](https://paypal.me/IrishPacks)
