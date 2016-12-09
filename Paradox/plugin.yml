@@ -1,0 +1,6 @@
+name: ParadoxHosted
+author: JordanSystems
+description: A hosted UHC core for Paradox Network.
+main: sys\jordan\Central
+version: 2.1
+api: [1.0.0, 2.0.0, 2.1.0]

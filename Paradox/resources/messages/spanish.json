@@ -1,0 +1,4 @@
+{
+  "MUST_BE_PLAYER_FOR_COMMAND": "&cPlease run this command in-game!",
+  "CHAT_MUTE_TOGGLE": "&aTurned player messages {args1} successfully"
+}
