@@ -1,13 +1,11 @@
-# One of the best UHC cores in PE!
+# One of the best UHC cores in Minecraft: Pocket Edition!
 
 While having many features, this core comes with many things such as:
 
-	-An API to add scenarios.
+	An API to add scenarios.
+	A teaming system.
+	An automatic timer.
+	An arena to practice in before the UHC!
 	
-	-An automatic timer.
-	
-	-Arena practicing.
-	
-More will be added as time goes on.
-Thanks for visting this page!
-Make sure to follow @ParadoxTwitUHC on Twitter!
+
+Make sure to follow @IrishPlugins on Twitter for updates!
