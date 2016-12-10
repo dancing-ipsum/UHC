@@ -79,7 +79,7 @@ class Team{
 		$x = mt_rand(-$range, $range);
 		$z = mt_rand(-$range, $range);
 		if(!$level->isChunkLoaded($x, $z)){
-			$level->loadChunk($x << 4, $z << 4);
+			$level->loadChunk($x >> 4, $z >> 4);
 		}
 		$pos = new Position($x, $level->getHighestBlockAt($x, $z) + 2, $z, $level);
 		foreach($this->members as $player) {
