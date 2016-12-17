@@ -34,7 +34,7 @@ class Central extends PluginBase{
 
 	const PREFIX = TextFormat::RESET.TextFormat::DARK_GRAY.TextFormat::BOLD."[".TextFormat::RESET.TextFormat::BLUE."UHC".TextFormat::DARK_GRAY.TextFormat::BOLD."]".TextFormat::RESET;
 	public static $BRAND_PREFIX = TextFormat::RESET.TextFormat::DARK_GRAY.TextFormat::BOLD."[".TextFormat::RESET.TextFormat::BLUE."UHC".TextFormat::DARK_GRAY.TextFormat::BOLD."]".TextFormat::RESET;
-	public static $TWITTER = TextFormat::BLUE."@UHC";
+	public static $TWITTER = TextFormat::BLUE."@WalterionPE";
 
 	public $isBeta = true;
 
