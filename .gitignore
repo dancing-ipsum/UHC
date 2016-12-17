@@ -1,0 +1,3 @@
+ #Use to ignore IDEs :))
+.idea/*
+nbproject/*
