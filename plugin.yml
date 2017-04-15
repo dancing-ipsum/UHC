@@ -3,4 +3,4 @@ author: IrishPlugins/IrishPacks
 description: A hosted UHC core.
 main: sys\jordan\Central
 version: 2.1
-api: [1.0.0, 2.0.0, 2.1.0]
+api: [1.0.0, 2.0.0, 2.1.0, 3.0.0-ALPHA5]
