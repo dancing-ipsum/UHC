@@ -10,4 +10,6 @@ While having many features, this core comes with many things such as:
 
 Make sure to follow @IrishPlugins on Twitter for updates!
 
+ONLY works on version 3.0.0-ALPHA11.
+
 Donations are welcome! Donate [here](https://paypal.me/IrishPacks)!
