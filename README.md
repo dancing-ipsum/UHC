@@ -8,7 +8,7 @@ While having many features, this core comes with many things such as:
 	An arena to practice in before the UHC!
 	
 
-Make sure to follow @IrishPlugins on Twitter for updates!
+Original plugin made by IrishPlugins.
 
 ONLY works on version 3.0.0-ALPHA11.
 
